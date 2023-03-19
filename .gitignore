@@ -1,0 +1,8 @@
+id_rsa
+id_rsa.pub
+**/*ovpn
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/*
+*.tfvars
+.terraform.lock.hcl
